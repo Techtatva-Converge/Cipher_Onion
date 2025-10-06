@@ -1,4 +1,4 @@
-The flag was sliced into three pieces and wrapped in escalating layers of ciphers—each slice has one more layer than the last.
+The flag was sliced into three pieces and wrapped in escalating layers of ciphers. Each slice has one more layer than the last.
 
 **Goal:** Recover each slice and submit the final flag as:
 
